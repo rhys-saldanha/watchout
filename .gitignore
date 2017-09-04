@@ -1,0 +1,9 @@
+# build files
+**/build/*
+
+# zip files
+## usually from downloads
+*.zip
+
+# python compiled files
+*.pyc

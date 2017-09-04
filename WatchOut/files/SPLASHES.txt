@@ -1,0 +1,9 @@
+Press 'M' to start music
+Press 'Return' to quickly start the game
+'P' or the space bar pauses the game
+'SHIFT' makes you move quicker
+This is a splash of sorts :3
+'WASD' or Arrow keys to move
+'Esc' takes you back a screen
+Avoid those rocks!
+Golden rocks are obviously good - hit 'em!
